@@ -9,7 +9,7 @@ With a strong foundation in **data analysis, financial modeling, predictive anal
 
 🎓 I hold a **Master of Science in Business Analytics** from **Wake Forest University School of Business** (Class of 2024), and a **Bachelor of Arts in Business Administration** from the **University of California, Irvine**.
 
-🌱 I’m always looking to grow and collaborate—especially in areas related to **machine learning**, **data visualization**, and **customer strategy**. Let's connect and share ideas!
+🌱 I’m always looking to grow and collaborate—especially in areas related to **machine learning**, **data visualization**, **corporate strategy**, and **customer service**. Let's connect and share ideas!
 
 📫 Feel free to reach out to chat about analytics, strategy, or just to say hi!  
 Excited to be part of the data-driven community here on GitHub. Let’s innovate together!

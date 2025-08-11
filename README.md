@@ -1,23 +1,36 @@
-# 👋 Hi, I’m Lauryn Zhai! 
+# 👋 Hi, I’m Lauryn Zhai  
 
-Welcome to my GitHub profile! It's great to meet you virtually 😊
-
-👀 I’m passionate about Business Analytics and Data-Driven Strategy.  
-With a strong foundation in **data analysis, financial modeling, predictive analytics, and strategic planning**, I thrive on transforming complex data into actionable business insights.
-
-💼 I’m currently a **Corporate Planning Analyst** at **Honda Aircraft Company**, where I contribute to strategic decision-making and operational efficiency through data and analytics.
-
-🎓 I hold a **Master of Science in Business Analytics** from **Wake Forest University School of Business** (Class of 2024), and a **Bachelor of Arts in Business Administration** from the **University of California, Irvine**.
-
-🌱 I’m always looking to grow and collaborate—especially in areas related to **machine learning**, **data visualization**, **corporate strategy**, and **customer service**. Let's connect and share ideas!
-
-📫 Feel free to reach out to chat about analytics, strategy, or just to say hi!  
-Excited to be part of the data-driven community here on GitHub. Let’s innovate together!
+Welcome to my GitHub profile! It's great to meet you virtually 😊  
 
 ---
 
-**Specialties**  
+### 👀 About Me
+I’m passionate about **Business Analytics** and **Data-Driven Strategy** — turning complex data into actionable insights that drive business growth.  
+
+💼 **Corporate Planning Analyst** @ **Honda Aircraft Company**  
+🎓 **M.S. in Business Analytics** — Wake Forest University School of Business (2024)  
+🎓 **B.A. in Business Administration** — University of California, Irvine (2023)
+
+---
+
+### 🌟 What I Do
+- 📊 **Data Analysis & Visualization** – Transforming raw data into compelling stories  
+- 📈 **Financial Modeling & Forecasting** – Supporting strategic decision-making  
+- 🤖 **Predictive Analytics & Machine Learning** – Building models to solve business problems  
+- 🛫 **Corporate Strategy** – Shaping operational efficiency and long-term growth  
+
+---
+
+### 🛠️ Technical Skills
 `Business Analytics` | `Data Analysis` | `Financial Modeling` | `Machine Learning` | `Predictive Analytics`  
-`Data Mining` | `Visualization` | `Strategic Planning` | `Customer Insights` | `Corporate Strategy`
+`Data Mining` | `Data Visualization` | `Strategic Planning` | `Customer Insights` | `Corporate Strategy`  
 
 ---
+
+### 📬 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurynzhai/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurynzhai@gmail.com)  
+
+---
+
+💡 *Excited to be part of the data-driven community here on GitHub. Let’s innovate together!* 🚀
